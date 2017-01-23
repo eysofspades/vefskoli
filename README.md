@@ -1,0 +1,2 @@
+# vefskoli
+Github vefskóli
